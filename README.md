@@ -4,7 +4,11 @@ The CoCoder Program is a CLI code editor written in the C language.
 
 코코더 프로그램(CoCoder Program)은 C언어로 제작된 콘솔 환경의 코드 에디터입니다.
 
+## **Dev Note(개발노트) p.155-156**
+
 [![Development Note p.155](https://img.youtube.com/vi/6cy6-cgZK9Y/0.jpg)](https://www.youtube.com/watch?v=6cy6-cgZK9Y)
+
+[![Development Note p.156](https://img.youtube.com/vi/BnMJkWlO12c/0.jpg)](https://www.youtube.com/watch?v=BnMJkWlO12c)
 
 # **How to Use(사용법)**
 
